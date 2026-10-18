@@ -1,0 +1,164 @@
+{
+  "project": "MnemoTrace",
+  "pack_type": "documentation-first implementation blueprint",
+  "created_at": "2026-10-18",
+  "markdown_file_count": 31,
+  "note": "Documentation and issue templates only, not application implementation. Planned features must be implemented and tested before being claimed as complete.",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "size_bytes": 292,
+      "sha256": "ea2e8f26ca5d766b31ec3f4f7631474ded5bd81db7dd3b5fe9c96e4283fca22a"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "size_bytes": 264,
+      "sha256": "8c9d54a1c904fca54faa51100d1856bef91ff2bc40f04c9e835082a49990f79f"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 972,
+      "sha256": "1c9f6655858961f1910200f9a5927925cbd3a9731fa3921b2c2d3cecbaf0b1bf"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size_bytes": 1948,
+      "sha256": "ead52682c64d0c67c0a2dd8e9125bd0847a8a163707264a11305224a6689698f"
+    },
+    {
+      "path": "PROJECT_STATUS.md",
+      "size_bytes": 2569,
+      "sha256": "2bd3a0af87b9e01bc17650a650308c55736383548bf34afafd7e92dd539e9cca"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 5524,
+      "sha256": "71a84f103024d7738681edff7951c2ddf87b366c9ba61cb41456e4bedc308d74"
+    },
+    {
+      "path": "SECURITY.md",
+      "size_bytes": 1394,
+      "sha256": "7432b59a0ed7ace9566487d1887bcd28062c5ad1b01f98f47a0da037385a5ccf"
+    },
+    {
+      "path": "docs/01_PROJECT_CHARTER.md",
+      "size_bytes": 3184,
+      "sha256": "398915b1d638befcab327dfba21bd7fe36728f17e049c8bc20a3822dd5172923"
+    },
+    {
+      "path": "docs/02_PROBLEM_AND_STAKEHOLDERS.md",
+      "size_bytes": 2820,
+      "sha256": "8343376e1cb0d5dcda95c732ff3f41c67cb6a8c3c84081f33e81214f16bae2de"
+    },
+    {
+      "path": "docs/03_SOLUTION_AND_NOVELTY.md",
+      "size_bytes": 4004,
+      "sha256": "e045926c3581f46cb3007ef0d561009376a757ef64cbfa37aad84e753aa06373"
+    },
+    {
+      "path": "docs/04_REQUIREMENTS.md",
+      "size_bytes": 3968,
+      "sha256": "771ff45dcb20de68fb890b857c97d64efdfe690703e37d0ed1acfb8249942d44"
+    },
+    {
+      "path": "docs/05_SYSTEM_ARCHITECTURE.md",
+      "size_bytes": 3900,
+      "sha256": "f301b517ed2107f0e0893a797fb1b9119cdb3d4de1392c91d510af2009267007"
+    },
+    {
+      "path": "docs/06_THREAT_MODEL.md",
+      "size_bytes": 4404,
+      "sha256": "12a2223a982e878a294a6e3f5f0bdd9979ff0504d4ce483ba7bb80a6343f9491"
+    },
+    {
+      "path": "docs/07_EVENT_AND_MEMORY_DATA_MODEL.md",
+      "size_bytes": 2977,
+      "sha256": "48618e5315b8596a155915a0db1cc7080309016601b75f03cdc4b2619664909f"
+    },
+    {
+      "path": "docs/08_RECOVERY_PROTOCOL.md",
+      "size_bytes": 3393,
+      "sha256": "b1be630fcf9e818712fd498bde2a69aeb12911234cfba84a6f5c44734f1ac956"
+    },
+    {
+      "path": "docs/09_API_CONTRACT.md",
+      "size_bytes": 2781,
+      "sha256": "02faa23996742a3fc3a2dc8699bc5a42d9175ff91d10910a553dc2f15ff72f2c"
+    },
+    {
+      "path": "docs/10_IMPLEMENTATION_PLAN.md",
+      "size_bytes": 4610,
+      "sha256": "1ccc552f1c7d6dc8096292f611cb3f777eda1960295a74a17e4f0c8f917139e9"
+    },
+    {
+      "path": "docs/11_TEST_STRATEGY.md",
+      "size_bytes": 2980,
+      "sha256": "6a9b268f35aebabac5fe2f0dc3627ae57aa93a9abdd9e3b1f1e6ad438e0fc2b3"
+    },
+    {
+      "path": "docs/12_BENCHMARK_PROTOCOL.md",
+      "size_bytes": 3682,
+      "sha256": "5369bd002910ed64dc04ace763b354f1403e4acddd6ad97ed8ff8fbf47e63a96"
+    },
+    {
+      "path": "docs/13_LOCAL_DEVELOPMENT.md",
+      "size_bytes": 2740,
+      "sha256": "fed92133bb79b979ba33b3a6089b23578b723d741206d8a4d5f9ffd2025c026d"
+    },
+    {
+      "path": "docs/14_DEMO_RUNBOOK.md",
+      "size_bytes": 3406,
+      "sha256": "ceb89b0322e26d43c3304111a2711fb5d1ebd11bcdc8767d2d1715b6b120d3b1"
+    },
+    {
+      "path": "docs/15_PRIVACY_AND_ETHICS.md",
+      "size_bytes": 2026,
+      "sha256": "0bc6fdda6ba8d1d14e140adf76cc47bc85e05a8a0f337a9c45348e1f5b9a01d0"
+    },
+    {
+      "path": "docs/16_RISK_REGISTER.md",
+      "size_bytes": 2589,
+      "sha256": "8eab9d50fbf77a462254b222b0cb309f5e78b6c724a6cbf9356812c47755e02f"
+    },
+    {
+      "path": "docs/17_RELEASE_CHECKLIST.md",
+      "size_bytes": 2088,
+      "sha256": "e4a0a7c674c49d7199a7be8982e899c0b60e20be26eb862b9b943fc881cb0a01"
+    },
+    {
+      "path": "docs/18_HACKATHON_PITCH.md",
+      "size_bytes": 2952,
+      "sha256": "5a8703da74b7d7b203e44b8afc9f9d76a3b31b28ae73396c235da83b9b9303f5"
+    },
+    {
+      "path": "docs/19_TRACEABILITY_MATRIX.md",
+      "size_bytes": 2082,
+      "sha256": "f7f492b2912a7831fa2d0bdad8e83bf79385c40507573faf1559ba08eee4f0c0"
+    },
+    {
+      "path": "docs/20_PROGRESS_LOG.md",
+      "size_bytes": 1202,
+      "sha256": "028cbaafb2c7162f433d563b556b85d62bf1a8369fa02dd4dbabc1582077263a"
+    },
+    {
+      "path": "docs/INDEX.md",
+      "size_bytes": 1560,
+      "sha256": "3cfab61c5ac3182bdef7472babbdf7d411190b761283fe66593aec855047461a"
+    },
+    {
+      "path": "docs/decisions/ADR-0001-trust-boundaries.md",
+      "size_bytes": 1101,
+      "sha256": "6a076884ec15359149317cc8039a22ffda5548674d5558e6ca265eaf2647a9c6"
+    },
+    {
+      "path": "docs/decisions/ADR-0002-synthetic-evaluation.md",
+      "size_bytes": 924,
+      "sha256": "7cf16bbd99d72a97eaaa311bbca6dc7d0c22f9f1e6e96ac3a8cbd9675af65766"
+    },
+    {
+      "path": "docs/decisions/ADR-0003-privacy-minimizing-ledger.md",
+      "size_bytes": 963,
+      "sha256": "2e112e4e9c91607786a73031dea9e5cfb4990e52e297c6dffd6722e47b0e232e"
+    }
+  ]
+}
